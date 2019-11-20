@@ -1,0 +1,41 @@
+{
+    "project": {
+        "full_name": "Open Adaptive Controller",
+        "slug": "open-adaptive-controller",
+        "short_description": "Un ensemble de boutons, joysticks, pédales et autres interfaces pour composer sa manette de jeu en fonction de ses envies et de ses besoins.",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Un ensemble de boutons, joysticks, pédales et autres interfaces pour composer sa manette de jeu en fonction de ses envies et de ses besoins.",
+        "status": "draft",
+        "links": [
+            {
+                "url": "https://rennes.humanlab.me/projet/open-adaptive-controller/",
+                "text": "page d'accueil du projet sur le GesLab",
+                "fa5_icon": "fas fa-home"
+            },
+            {
+                "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Open_adaptive_controller",
+                "text": "page wiki du projet sur le wiki du Humanlab",
+                "fa5_icon": "fab fa-wikipedia-w"
+            },
+            {
+                "url": "https://framateam.org/myhumankit/channels/open-adaptive-controller",
+                "text": "canal de discussion sur Framateam",
+                "fa5_icon": "fas fa-comments"
+            },
+            {
+                "url": "https://github.com/myhumankit/open-adaptive-controller",
+                "text": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github"
+            }
+        ],
+        "contributors": [
+            {
+                "full_name": "Julien Lebunetel",
+                "email": "julien@myhumankit.org",
+                "github_username": "jlebunetel",
+                "role": "Fabmanager référent"
+            }
+        ]
+    }
+}
